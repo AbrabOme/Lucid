@@ -97,20 +97,8 @@ header {
         padding: 0px 51px;
     }
 
-    .mob2-section .c-inner h6,.mob2-section .c-inner h2 {
-        text-align: center;
-    }
 
-    .mob2-section .c-inner .underline {
-        position: relative;
-        margin: 30px auto 50px;
-        width: 80px;
-        background: #578bd1;
-        height: 3px;
-        transition: width 0.6s ease;
-    }
-
-        .mob2-section img {
+    .mob2-section img {
         width: 90%;
         margin-bottom: 20px;
     }
@@ -124,7 +112,19 @@ header {
         text-align: center;
         padding: 0px 15px;
     }
-    
+
+    .mob2-section .c-inner h6,.mob2-section .c-inner h2 {
+        text-align: center;
+    }
+
+    .mob2-section .c-inner .underline {
+        position: relative;
+        margin: 30px auto 50px;
+        width: 80px;
+        background: #578bd1;
+        height: 3px;
+        transition: width 0.6s ease;
+    }
 
     .beautiful-section .b-inner h2,.beautiful-section .b-inner h6 {
         text-align: center;
@@ -153,6 +153,13 @@ header {
         margin-bottom: 30px;
     }
 
+
+    .contact-section .i-box p {
+        color: #999999;
+        font-size: 20px;
+    }
+
+    
     .calltoaction .btns {
         text-align: center;
     }
